@@ -1,5 +1,3 @@
-#!/bin/bash
-
 import flask
 import flask_cors
 import threading
